@@ -1,12 +1,12 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "Dey Engineering",
   meta: [
     {
       name: "description",
       content:
-        "Nuxt Starter is a minimal template created for quick landing pages, built with Nuxt and Tailwind CSS.",
+        "Code Compliant Fire Alarm Drawings.",
     },
   ],
   bodyAttrs: {
